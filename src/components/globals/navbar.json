@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_globals_navbars",
+  "info": {
+    "displayName": "navbar",
+    "icon": "arrow-alt-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "navLink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "utils.link"
+    },
+    "title": {
+      "type": "string",
+      "default": "Automatin"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_globals_footers",
+  "info": {
+    "displayName": "footer",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "footerLink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "utils.link"
+    },
+    "rightButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "utils.link"
+    }
+  }
+}

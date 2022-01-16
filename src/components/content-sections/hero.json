@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_content_sections_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "heading",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}

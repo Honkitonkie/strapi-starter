@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_globals_metas",
+  "info": {
+    "displayName": "meta",
+    "icon": "child",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}

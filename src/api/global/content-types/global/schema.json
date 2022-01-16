@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "globals",
+  "info": {
+    "singularName": "global",
+    "pluralName": "globals",
+    "displayName": "Globals",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "globals": {
+      "type": "dynamiczone",
+      "components": [
+        "globals.navbar",
+        "globals.footer",
+        "head.metadata"
+      ]
+    }
+  }
+}
