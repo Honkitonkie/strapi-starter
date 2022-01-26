@@ -19,6 +19,7 @@
     "@strapi/strapi": "4.0.2",
     "graphql": "^16.2.0",
     "mysql": "2.18.1",
+    "node": "^14.18.3",
     "pg-connection-string": "2.5.0"
   },
   "author": {
